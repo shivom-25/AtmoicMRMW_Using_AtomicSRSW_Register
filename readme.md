@@ -1,0 +1,1 @@
+construct atomic MRMW register using atomic SRSW register
